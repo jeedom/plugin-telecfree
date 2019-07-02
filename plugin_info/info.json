@@ -1,0 +1,14 @@
+{
+    "id" : "telecfree",
+    "name" : "Telecommande Freebox",
+    "description" : "Plugin pour piloter le Freebox Player de la Freebox Revolution",
+    "licence" : "AGPL",
+    "author" : "Jojo",
+    "require" : "3.1",
+    "category" : "multimedia",
+    "changelog" : "https://www.jeedom.com/forum/viewtopic.php?f=28&t=13385",
+    "documentation" : "https://www.jeedom.com/forum/viewtopic.php?f=28&t=13385",
+    "forum_link" : "https://www.jeedom.com/forum/viewtopic.php?f=28&t=13385",
+    "hasDependency" : false,
+    "hasOwnDeamon" : false
+}

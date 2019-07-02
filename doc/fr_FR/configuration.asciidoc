@@ -1,0 +1,10 @@
+Le plugin Télécommande Freebox permet de piloter le Freebox Player (Freebox Révolution) 
+
+Une fois installé à partir du Market, puis une fois activé, on accède à la page du plugin Telecommande Freebox dans le menu Plugin->Multimédia.
+
+Pour créer une nouvelle télécommande, il suffit de cliquer sur "Ajouter un équipement" dans le menu de gauche. Il est possible de créer plusieurs télécommandes.
+
+L'onglet "Général" permet de donner un nom, activer et rendre visible la télécommande, puis configurer cette dernière.
+
+Le plus important est de configurer le bon code télécommande. 
+

@@ -1,0 +1,16 @@
+== Télécommande Freebox
+
+=== Description
+Plugin pour commander le Freebox Player de la Freebox Révolution
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]

@@ -1,0 +1,39 @@
+==== 09/12/2015
+
+- Première version du plugin (télécommande simple)
+
+==== 15/12/2015
+
+- Ajout des raccourcis vers les menus principaux
+- Ajout des raccourcis vers les chaines TV (1 à 28, 31, 32, 39, 48, 143)
+- Ajout de la possibilité d'afficher ou non chaque sous partie (télécommande, raccourcis, chaines)
+
+==== 02/01/2016
+
+- Ajout de 10 raccourcis personnalisables vers des chaines TV, utilisables avec un ou plusieurs virtuels
+
+==== 25/01/2016
+
+- Ajout de l'option multi-TV pour pouvoir gérer le boitier TV secondaire
+
+==== 01/02/2016
+
+- Ajout de la configuration de l'IP du Player pour pouvoir gérer les configurations non standard et le multi-TV
+
+==== 23/08/2017
+
+- Gestion d'un problème de compatibilité avec Jeedom Core V3.X.X
+
+==== 02/10/2017
+
+- Adaptations du plugin au nouveau format requis par Jeedom Core V3.1.X
+
+==== 09/04/2018
+
+- Standardisation de l'interface de configuration 
+
+==== 16/04/2018
+
+- Modification de l'icone et du fichier json en accord avec les nouveaux standards Jeedom
+
+==== 

@@ -1,0 +1,29 @@
+<div class="eqLogic eqLogic-widget col2" data-version="mobile" style="background-color: #665C52;" data-eqLogic_id="#id#" class="telecfree" >
+	<style  type="text/css">
+	  .telecfree .cmd a {
+		width: 40px;
+		height: 20px;
+		font-size: 0.8em;
+	  }
+	</style>
+	<center class="widget-name">
+        <span style="font-weight:bold;"><a href="#eqLink#">#name#</a></span>
+    </center>
+	<div class="telecfree" style="display:inline-block; margin: 10px auto; text-align: center; vertical-align:middle;">
+		<div style="margin: 0px;">
+		</div>
+		<div style="display: inline-block; vertical-align:middle;">
+			#group_basic#
+			#group_raccourcis#
+			#group_chaines#
+		</div>
+	</div>	
+    <script>
+        $(function() {
+          $('.telecfree .cmd').on('click', function() {
+              jeedom.cmd.execute({id: $(this).data('cmd_id')});
+          });
+        });
+    </script>
+</div>
+
