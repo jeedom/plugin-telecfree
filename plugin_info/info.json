@@ -10,5 +10,7 @@
     "documentation" : "https://www.jeedom.com/forum/viewtopic.php?f=28&t=13385",
     "forum_link" : "https://www.jeedom.com/forum/viewtopic.php?f=28&t=13385",
     "hasDependency" : false,
-    "hasOwnDeamon" : false
+    "hasOwnDeamon" : false,
+    "language" : ["fr_FR","en_US","de_DE","sp_SP"],
+"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","v4"]
 }
